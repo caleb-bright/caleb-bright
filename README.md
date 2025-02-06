@@ -1,2 +1,7 @@
-# 👋 Hi!
-I love Jesus and technology. I work at Encounter Jesus as the Media Coordinator.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=30&pause=1000&color=78C1F7&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Caleb+Bright!)](https://git.io/typing-svg)
+
+## About Me
+I love Jesus, the creative arts, and technology. I work at Encounter Jesus as the Media Coordinator.
+
+## Contact Information
+If you would like to reach out to me, you can email cbright@encounterjesuschurch.com.
