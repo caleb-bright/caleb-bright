@@ -2,7 +2,7 @@
 
 ## About Me
 I love Jesus, the creative arts, and technology. I work at Encounter Jesus as the Media Coordinator.
-
+<br>
 ## Hobbies & Interests
 - Photography/Videography
 - Photo/Video Editing
