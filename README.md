@@ -6,6 +6,8 @@ I love Jesus, the creative arts, and technology. I work at Encounter Jesus as th
 ## Hobbies & Interests
 - Photography/Videography
 - Photo/Video Editing
+- Graphic Design
+- Audio Engineering
 - Coding/Scripting/Programming
 - Cybersecurity
 - Product Research
