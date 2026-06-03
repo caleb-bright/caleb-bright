@@ -17,4 +17,4 @@ I love Jesus, the creative arts, and technology. I work at Encounter Jesus as th
 
 ‎ 
 ## Contact Information
-If you would like to reach out to me, you can email cbright@encounterjesuschurch.com.
+If you would like to reach out to me, you can email caleb.bright@encounterjesuschurch.com.
